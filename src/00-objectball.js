@@ -203,7 +203,7 @@ const gameObject = () => {
         playerWithLargestShoeSize = object.away.players[player];
         playerName = player;
       }
-      // debugger;
+    
     }
   
     return {
