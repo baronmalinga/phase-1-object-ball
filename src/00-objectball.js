@@ -194,7 +194,7 @@ const gameObject = () => {
         playerWithLargestShoeSize = object.home.players[player];
         playerName = player;
       }
-      // debugger;
+      
     }
   
     for (let player in object.away.players) {
